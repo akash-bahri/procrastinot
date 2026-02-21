@@ -1,0 +1,38 @@
+{
+  "title": "My Schedule",
+  "filter": "all",
+  "days": [
+    {
+      "id": "id-3u685ez8s",
+      "title": "Fri",
+      "date": "20 Feb",
+      "timeBudget": "2",
+      "tasks": [
+        {
+          "id": "id-bwng1zfsn",
+          "title": "",
+          "details": [],
+          "completed": true,
+          "priority": "none",
+          "labels": []
+        },
+        {
+          "id": "id-i6deqelfd",
+          "title": "",
+          "details": [],
+          "completed": true,
+          "priority": "none",
+          "labels": []
+        },
+        {
+          "id": "id-bloa3tfpn",
+          "title": "",
+          "details": [],
+          "completed": true,
+          "priority": "none",
+          "labels": []
+        }
+      ]
+    }
+  ]
+}
